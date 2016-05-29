@@ -30,7 +30,7 @@ env:
   global:
     - EXTNAME="senky/avatarsonmemberlist"
     - SNIFF="1"
-    - IMAGE_ICC="1"
+    - IMAGE_ICC="0"
     - EPV="1"
     - PHPBB_BRANCH="3.1.x"
 
