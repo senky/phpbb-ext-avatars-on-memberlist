@@ -1,0 +1,17 @@
+/**
+*
+* Avatars on Memberlist extension for the phpBB Forum Software package.
+*
+* @copyright (c) 2016 Jakub Senko <jakubsenko@gmail.com>
+* @license GNU General Public License, version 2 (GPL-2.0)
+*
+*/
+
+#memberlist .avatar {
+	display: inline-block;
+	width: auto;
+	max-width: 50px;
+	max-height: 20px;
+	margin-bottom: 2px;
+	vertical-align: middle;
+}

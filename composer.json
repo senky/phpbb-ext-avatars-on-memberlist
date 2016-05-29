@@ -1,0 +1,46 @@
+{
+	"name": "senky/avatarsonmemberlist",
+	"type": "phpbb-extension",
+	"description": "Shows user avatars on memberlist.",
+	"homepage": "https://www.phpbb.com/customise/db/extension/avatars_on_memberlist/",
+	"version": "1.0.0",
+	"time": "2016-05-29",
+	"keywords": ["phpbb", "extension", "avatar", "memberlist"],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Jakub Senko (Senky)",
+			"email": "jakubsenko@gmail.com",
+			"role": "Lead Extension Developer"
+		},
+		{
+			"name": "Clemens Husung (Wolfsblvt)",
+			"homepage": "http://www.pinkes-forum.de/",
+			"email": "wolfsblvt@gmx.de",
+			"role": "Extension Developer"
+		},
+		{
+			"name": "Dragos Valentin Rădulescu (Dragosvr92)",
+			"homepage": "http://www.rising-dead.com/",
+			"email": "admin@rising-dead.com",
+			"role": "MOD Developer"
+		},
+		{
+			"name": "David Lewis (Highway of Life)",
+			"email": "highwayoflife@gmail.com",
+			"role": "Lead MOD Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"require-dev": {
+		"phpbb/epv": "dev-master"
+	},
+	"extra": {
+		"display-name": "Avatars on Memberlist",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.1.0,<3.2@dev"
+		}
+	}
+}
