@@ -3,8 +3,7 @@
 	"type": "phpbb-extension",
 	"description": "Shows user avatars on memberlist.",
 	"homepage": "https://www.phpbb.com/customise/db/extension/avatars_on_memberlist/",
-	"version": "1.0.0",
-	"time": "2016-05-29",
+	"version": "1.0.1",
 	"keywords": ["phpbb", "extension", "avatar", "memberlist"],
 	"license": "GPL-2.0",
 	"authors": [
