@@ -7,7 +7,8 @@
 *
 */
 
-#memberlist .avatar {
+#memberlist .avatar,
+#memberlist img[src^="//secure.gravatar.com"] {
 	display: inline-block;
 	width: auto;
 	max-width: 50px;
