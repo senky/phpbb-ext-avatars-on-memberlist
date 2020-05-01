@@ -1,0 +1,7 @@
+services:
+    senky.avatarsonmemberlist.listener:
+        class: senky\avatarsonmemberlist\event\listener
+        arguments:
+            - '@template'
+        tags:
+            - { name: event.listener }
